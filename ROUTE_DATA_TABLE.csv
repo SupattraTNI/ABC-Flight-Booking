@@ -1,0 +1,17 @@
+"ROUTE_NAME","ROUTE_PATH","DOW","TOTAL_TIME"
+"AB100","BKK-NRT","mon/sat/sun",375
+"AB101","NRT-BKK","mon/sat/sun",375
+"AB200","BKK-NRT-LAX","tue/thu/sat",1290
+"AB201","LAX-NRT-BKK","wed/fri/sun",1290
+"AB300","BKK-LAX","mon/fri",1005
+"AB301","LAX-BKK","tue/sat",1005
+"AB400","DNM-CNX","mon/sat/sun",70
+"AB401","CNX-DNM","mon/sat/sun",70
+"AB500","CNX-HKT","mon/wed/fri",130
+"AB501","HKT-CNX","mon/wed/fri",130
+"AB600","DNM-HKT","mon/thu",85
+"AB601","HKT-DNM","mon/thu",85
+"AB700","BKK-DXB","wed/sat",375
+"AB701","DXB-BKK","thu/sun",375
+"AB800","BKK-DXB-LAX","mon/thu",1534
+"AB801","LAX-DXB-BKK","tue/fri",1534
